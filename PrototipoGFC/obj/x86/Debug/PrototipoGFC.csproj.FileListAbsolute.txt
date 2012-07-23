@@ -1,0 +1,14 @@
+c:\documents and settings\administrador\meus documentos\visual studio 2010\Projects\PrototipoGFC\PrototipoGFC\bin\Debug\PrototipoGFC.exe
+c:\documents and settings\administrador\meus documentos\visual studio 2010\Projects\PrototipoGFC\PrototipoGFC\bin\Debug\PrototipoGFC.pdb
+c:\documents and settings\administrador\meus documentos\visual studio 2010\Projects\PrototipoGFC\PrototipoGFC\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\documents and settings\administrador\meus documentos\visual studio 2010\Projects\PrototipoGFC\PrototipoGFC\obj\x86\Debug\PrototipoGFC.Properties.Resources.resources
+c:\documents and settings\administrador\meus documentos\visual studio 2010\Projects\PrototipoGFC\PrototipoGFC\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\documents and settings\administrador\meus documentos\visual studio 2010\Projects\PrototipoGFC\PrototipoGFC\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\documents and settings\administrador\meus documentos\visual studio 2010\Projects\PrototipoGFC\PrototipoGFC\obj\x86\Debug\PrototipoGFC.exe
+c:\documents and settings\administrador\meus documentos\visual studio 2010\Projects\PrototipoGFC\PrototipoGFC\obj\x86\Debug\PrototipoGFC.pdb
+c:\documents and settings\administrador\meus documentos\visual studio 2010\Projects\PrototipoGFC\PrototipoGFC\obj\x86\Debug\PrototipoGFC.FrmPrincipal.resources
+c:\documents and settings\administrador\meus documentos\visual studio 2010\Projects\PrototipoGFC\PrototipoGFC\obj\x86\Debug\PrototipoGFC.FrmCriarContasAPagar.resources
+c:\documents and settings\administrador\meus documentos\visual studio 2010\Projects\PrototipoGFC\PrototipoGFC\obj\x86\Debug\PrototipoGFC.FrmLogin.resources
+c:\documents and settings\administrador\meus documentos\visual studio 2010\Projects\PrototipoGFC\PrototipoGFC\obj\x86\Debug\PrototipoGFC.FrmCadastrarClienteFornecedor.resources
+C:\Documents and Settings\Administrador\Meus documentos\Visual Studio 2010\Projects\PrototipoGFC\PrototipoGFC\bin\Debug\PrototipoGFC.exe.config
+C:\Documents and Settings\Administrador\Meus documentos\Visual Studio 2010\Projects\PrototipoGFC\PrototipoGFC\obj\x86\Debug\PrototipoGFC.FrmConsultaClienteFornecedor.resources
