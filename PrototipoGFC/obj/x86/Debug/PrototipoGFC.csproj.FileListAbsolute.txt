@@ -12,3 +12,18 @@ c:\documents and settings\administrador\meus documentos\visual studio 2010\Proje
 c:\documents and settings\administrador\meus documentos\visual studio 2010\Projects\PrototipoGFC\PrototipoGFC\obj\x86\Debug\PrototipoGFC.FrmCadastrarClienteFornecedor.resources
 C:\Documents and Settings\Administrador\Meus documentos\Visual Studio 2010\Projects\PrototipoGFC\PrototipoGFC\bin\Debug\PrototipoGFC.exe.config
 C:\Documents and Settings\Administrador\Meus documentos\Visual Studio 2010\Projects\PrototipoGFC\PrototipoGFC\obj\x86\Debug\PrototipoGFC.FrmConsultaClienteFornecedor.resources
+C:\Users\Luciano\Documents\GitHub\GFC\PrototipoGFC\bin\Debug\PrototipoGFC.exe.config
+C:\Users\Luciano\Documents\GitHub\GFC\PrototipoGFC\obj\x86\Debug\PrototipoGFC.exe
+C:\Users\Luciano\Documents\GitHub\GFC\PrototipoGFC\obj\x86\Debug\PrototipoGFC.pdb
+C:\Users\Luciano\Documents\GitHub\GFC\PrototipoGFC\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Luciano\Documents\GitHub\GFC\PrototipoGFC\obj\x86\Debug\PrototipoGFC.FrmCadastrarClienteFornecedor.resources
+C:\Users\Luciano\Documents\GitHub\GFC\PrototipoGFC\obj\x86\Debug\PrototipoGFC.FrmConsultaClienteFornecedor.resources
+C:\Users\Luciano\Documents\GitHub\GFC\PrototipoGFC\obj\x86\Debug\PrototipoGFC.FrmCriarContasAPagar.resources
+C:\Users\Luciano\Documents\GitHub\GFC\PrototipoGFC\obj\x86\Debug\PrototipoGFC.FrmLogin.resources
+C:\Users\Luciano\Documents\GitHub\GFC\PrototipoGFC\obj\x86\Debug\PrototipoGFC.FrmPrincipal.resources
+C:\Users\Luciano\Documents\GitHub\GFC\PrototipoGFC\obj\x86\Debug\PrototipoGFC.Properties.Resources.resources
+C:\Users\Luciano\Documents\GitHub\GFC\PrototipoGFC\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Luciano\Documents\GitHub\GFC\PrototipoGFC\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Luciano\Documents\GitHub\GFC\PrototipoGFC\bin\Debug\PrototipoGFC.exe
+C:\Users\Luciano\Documents\GitHub\GFC\PrototipoGFC\bin\Debug\PrototipoGFC.pdb
+C:\Users\Luciano\Documents\GitHub\GFC\PrototipoGFC\bin\Debug\MySql.Data.dll

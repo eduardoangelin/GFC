@@ -20,19 +20,31 @@ namespace PrototipoGFC
 
         private void clientesFornecedoresToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            FrmConsultaClienteFornecedor form = new FrmConsultaClienteFornecedor();
-            form.ShowDialog();
+            tablessControl1.SelectedIndex = 2;
+        //    FrmConsultaClienteFornecedor form = new FrmConsultaClienteFornecedor();
+        //    form.ShowDialog();
         }
 
         private void criarToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            FrmCriarContasAPagar CriarContasAPagar = new FrmCriarContasAPagar();
-            CriarContasAPagar.ShowDialog();
+            tablessControl1.SelectedIndex = 1;
+          //  FrmCriarContasAPagar CriarContasAPagar = new FrmCriarContasAPagar();
+          //  CriarContasAPagar.ShowDialog();
         }
 
         private void FrmPrincipal_Load(object sender, EventArgs e)
         {
             
+        }
+
+        private void consultarToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            
+        }
+
+        private void label15_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }
