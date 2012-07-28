@@ -20,16 +20,12 @@ namespace PrototipoGFC
 
         private void clientesFornecedoresToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            tablessControl1.SelectedIndex = 2;
-        //    FrmConsultaClienteFornecedor form = new FrmConsultaClienteFornecedor();
-        //    form.ShowDialog();
+            tablessControl1.SelectedIndex = 1;
         }
 
         private void criarToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            tablessControl1.SelectedIndex = 1;
-          //  FrmCriarContasAPagar CriarContasAPagar = new FrmCriarContasAPagar();
-          //  CriarContasAPagar.ShowDialog();
+            tablessControl1.SelectedIndex = 8;
         }
 
         private void FrmPrincipal_Load(object sender, EventArgs e)
@@ -39,7 +35,7 @@ namespace PrototipoGFC
 
         private void consultarToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            
+            tablessControl1.SelectedIndex = 9;
         }
 
         private void label15_Click(object sender, EventArgs e)
@@ -50,6 +46,51 @@ namespace PrototipoGFC
         private void label18_Click(object sender, EventArgs e)
         {
 
+        }
+
+        private void bancosToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            tablessControl1.SelectedIndex = 2;
+        }
+
+        private void moedaIndeToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            tablessControl1.SelectedIndex = 3;
+        }
+
+        private void centroDeCustosToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            tablessControl1.SelectedIndex = 4;
+        }
+
+        private void portadorToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            tablessControl1.SelectedIndex = 5;
+        }
+
+        private void operacoesToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            tablessControl1.SelectedIndex = 6;
+        }
+
+        private void fluxoDeCaixaToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            tablessControl1.SelectedIndex = 7;
+        }
+
+        private void criarToolStripMenuItem1_Click(object sender, EventArgs e)
+        {
+            tablessControl1.SelectedIndex = 10;
+        }
+
+        private void consultarToolStripMenuItem1_Click(object sender, EventArgs e)
+        {
+            tablessControl1.SelectedIndex = 11;
+        }
+
+        private void movimentoToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            tablessControl1.SelectedIndex = 12;
         }
     }
 }
