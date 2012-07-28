@@ -33,3 +33,14 @@ C:\Documents and Settings\Administrador\Meus documentos\GitHub\ProjetosGITHUB\GF
 C:\Users\usuario\Documents\GitHub\GFC\PrototipoGFC\bin\Debug\PrototipoGFC.exe.config
 C:\Users\usuario\Documents\GitHub\GFC\PrototipoGFC\obj\x86\Debug\PrototipoGFC.exe
 C:\Users\usuario\Documents\GitHub\GFC\PrototipoGFC\obj\x86\Debug\PrototipoGFC.pdb
+C:\Users\usuario\Documents\GitHub\GFC\PrototipoGFC\bin\Debug\PrototipoGFC.exe
+C:\Users\usuario\Documents\GitHub\GFC\PrototipoGFC\bin\Debug\PrototipoGFC.pdb
+C:\Users\usuario\Documents\GitHub\GFC\PrototipoGFC\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\usuario\Documents\GitHub\GFC\PrototipoGFC\obj\x86\Debug\PrototipoGFC.FrmCadastrarClienteFornecedor.resources
+C:\Users\usuario\Documents\GitHub\GFC\PrototipoGFC\obj\x86\Debug\PrototipoGFC.FrmConsultaClienteFornecedor.resources
+C:\Users\usuario\Documents\GitHub\GFC\PrototipoGFC\obj\x86\Debug\PrototipoGFC.FrmCriarContasAPagar.resources
+C:\Users\usuario\Documents\GitHub\GFC\PrototipoGFC\obj\x86\Debug\PrototipoGFC.FrmLogin.resources
+C:\Users\usuario\Documents\GitHub\GFC\PrototipoGFC\obj\x86\Debug\PrototipoGFC.FrmPrincipal.resources
+C:\Users\usuario\Documents\GitHub\GFC\PrototipoGFC\obj\x86\Debug\PrototipoGFC.Properties.Resources.resources
+C:\Users\usuario\Documents\GitHub\GFC\PrototipoGFC\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\usuario\Documents\GitHub\GFC\PrototipoGFC\obj\x86\Debug\GenerateResource.write.1.tlog

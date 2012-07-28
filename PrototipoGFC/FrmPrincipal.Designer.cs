@@ -54,29 +54,30 @@
             this.label15 = new System.Windows.Forms.Label();
             this.label14 = new System.Windows.Forms.Label();
             this.tabPage1 = new System.Windows.Forms.TabPage();
-            this.tabPage2 = new System.Windows.Forms.TabPage();
-            this.tabPage4 = new System.Windows.Forms.TabPage();
-            this.tabPage5 = new System.Windows.Forms.TabPage();
-            this.tabPage6 = new System.Windows.Forms.TabPage();
-            this.tabPage7 = new System.Windows.Forms.TabPage();
-            this.tabPage8 = new System.Windows.Forms.TabPage();
-            this.tabPage9 = new System.Windows.Forms.TabPage();
-            this.tabPage10 = new System.Windows.Forms.TabPage();
-            this.tabPage11 = new System.Windows.Forms.TabPage();
-            this.tabPage12 = new System.Windows.Forms.TabPage();
-            this.tabPage13 = new System.Windows.Forms.TabPage();
-            this.label18 = new System.Windows.Forms.Label();
-            this.label19 = new System.Windows.Forms.Label();
-            this.label20 = new System.Windows.Forms.Label();
-            this.label21 = new System.Windows.Forms.Label();
-            this.label22 = new System.Windows.Forms.Label();
             this.label1 = new System.Windows.Forms.Label();
+            this.tabPage2 = new System.Windows.Forms.TabPage();
             this.label2 = new System.Windows.Forms.Label();
+            this.tabPage4 = new System.Windows.Forms.TabPage();
             this.label3 = new System.Windows.Forms.Label();
+            this.tabPage5 = new System.Windows.Forms.TabPage();
             this.label4 = new System.Windows.Forms.Label();
+            this.tabPage6 = new System.Windows.Forms.TabPage();
             this.label5 = new System.Windows.Forms.Label();
+            this.tabPage7 = new System.Windows.Forms.TabPage();
+            this.label18 = new System.Windows.Forms.Label();
+            this.tabPage8 = new System.Windows.Forms.TabPage();
+            this.label19 = new System.Windows.Forms.Label();
+            this.tabPage9 = new System.Windows.Forms.TabPage();
+            this.label20 = new System.Windows.Forms.Label();
+            this.tabPage10 = new System.Windows.Forms.TabPage();
+            this.label21 = new System.Windows.Forms.Label();
+            this.tabPage11 = new System.Windows.Forms.TabPage();
+            this.label22 = new System.Windows.Forms.Label();
+            this.tabPage12 = new System.Windows.Forms.TabPage();
             this.label6 = new System.Windows.Forms.Label();
+            this.tabPage13 = new System.Windows.Forms.TabPage();
             this.label7 = new System.Windows.Forms.Label();
+            this.label8 = new System.Windows.Forms.Label();
             this.menuStrip1.SuspendLayout();
             this.tablessControl1.SuspendLayout();
             this.tabPage3.SuspendLayout();
@@ -105,55 +106,55 @@
             this.operacoesToolStripMenuItem,
             this.fluxoDeCaixaToolStripMenuItem});
             this.cadastroToolStripMenuItem.Name = "cadastroToolStripMenuItem";
-            this.cadastroToolStripMenuItem.Size = new System.Drawing.Size(66, 20);
+            this.cadastroToolStripMenuItem.Size = new System.Drawing.Size(63, 20);
             this.cadastroToolStripMenuItem.Text = "Cadastro";
             // 
             // clientesFornecedoresToolStripMenuItem
             // 
             this.clientesFornecedoresToolStripMenuItem.Name = "clientesFornecedoresToolStripMenuItem";
-            this.clientesFornecedoresToolStripMenuItem.Size = new System.Drawing.Size(192, 22);
+            this.clientesFornecedoresToolStripMenuItem.Size = new System.Drawing.Size(182, 22);
             this.clientesFornecedoresToolStripMenuItem.Text = "Clientes/Fornecedores";
             this.clientesFornecedoresToolStripMenuItem.Click += new System.EventHandler(this.clientesFornecedoresToolStripMenuItem_Click);
             // 
             // bancosToolStripMenuItem
             // 
             this.bancosToolStripMenuItem.Name = "bancosToolStripMenuItem";
-            this.bancosToolStripMenuItem.Size = new System.Drawing.Size(192, 22);
+            this.bancosToolStripMenuItem.Size = new System.Drawing.Size(182, 22);
             this.bancosToolStripMenuItem.Text = "Bancos";
             this.bancosToolStripMenuItem.Click += new System.EventHandler(this.bancosToolStripMenuItem_Click);
             // 
             // moedaIndeToolStripMenuItem
             // 
             this.moedaIndeToolStripMenuItem.Name = "moedaIndeToolStripMenuItem";
-            this.moedaIndeToolStripMenuItem.Size = new System.Drawing.Size(192, 22);
+            this.moedaIndeToolStripMenuItem.Size = new System.Drawing.Size(182, 22);
             this.moedaIndeToolStripMenuItem.Text = "Moeda/Indices";
             this.moedaIndeToolStripMenuItem.Click += new System.EventHandler(this.moedaIndeToolStripMenuItem_Click);
             // 
             // centroDeCustosToolStripMenuItem
             // 
             this.centroDeCustosToolStripMenuItem.Name = "centroDeCustosToolStripMenuItem";
-            this.centroDeCustosToolStripMenuItem.Size = new System.Drawing.Size(192, 22);
+            this.centroDeCustosToolStripMenuItem.Size = new System.Drawing.Size(182, 22);
             this.centroDeCustosToolStripMenuItem.Text = "Centro de Custos";
             this.centroDeCustosToolStripMenuItem.Click += new System.EventHandler(this.centroDeCustosToolStripMenuItem_Click);
             // 
             // portadorToolStripMenuItem
             // 
             this.portadorToolStripMenuItem.Name = "portadorToolStripMenuItem";
-            this.portadorToolStripMenuItem.Size = new System.Drawing.Size(192, 22);
+            this.portadorToolStripMenuItem.Size = new System.Drawing.Size(182, 22);
             this.portadorToolStripMenuItem.Text = "Portador";
             this.portadorToolStripMenuItem.Click += new System.EventHandler(this.portadorToolStripMenuItem_Click);
             // 
             // operacoesToolStripMenuItem
             // 
             this.operacoesToolStripMenuItem.Name = "operacoesToolStripMenuItem";
-            this.operacoesToolStripMenuItem.Size = new System.Drawing.Size(192, 22);
+            this.operacoesToolStripMenuItem.Size = new System.Drawing.Size(182, 22);
             this.operacoesToolStripMenuItem.Text = "Operacoes";
             this.operacoesToolStripMenuItem.Click += new System.EventHandler(this.operacoesToolStripMenuItem_Click);
             // 
             // fluxoDeCaixaToolStripMenuItem
             // 
             this.fluxoDeCaixaToolStripMenuItem.Name = "fluxoDeCaixaToolStripMenuItem";
-            this.fluxoDeCaixaToolStripMenuItem.Size = new System.Drawing.Size(192, 22);
+            this.fluxoDeCaixaToolStripMenuItem.Size = new System.Drawing.Size(182, 22);
             this.fluxoDeCaixaToolStripMenuItem.Text = "Fluxo de Caixa";
             this.fluxoDeCaixaToolStripMenuItem.Click += new System.EventHandler(this.fluxoDeCaixaToolStripMenuItem_Click);
             // 
@@ -163,20 +164,20 @@
             this.criarToolStripMenuItem,
             this.consultarToolStripMenuItem});
             this.contasAPagarToolStripMenuItem.Name = "contasAPagarToolStripMenuItem";
-            this.contasAPagarToolStripMenuItem.Size = new System.Drawing.Size(98, 20);
+            this.contasAPagarToolStripMenuItem.Size = new System.Drawing.Size(93, 20);
             this.contasAPagarToolStripMenuItem.Text = "Contas a pagar";
             // 
             // criarToolStripMenuItem
             // 
             this.criarToolStripMenuItem.Name = "criarToolStripMenuItem";
-            this.criarToolStripMenuItem.Size = new System.Drawing.Size(125, 22);
+            this.criarToolStripMenuItem.Size = new System.Drawing.Size(152, 22);
             this.criarToolStripMenuItem.Text = "Criar...";
             this.criarToolStripMenuItem.Click += new System.EventHandler(this.criarToolStripMenuItem_Click);
             // 
             // consultarToolStripMenuItem
             // 
             this.consultarToolStripMenuItem.Name = "consultarToolStripMenuItem";
-            this.consultarToolStripMenuItem.Size = new System.Drawing.Size(125, 22);
+            this.consultarToolStripMenuItem.Size = new System.Drawing.Size(152, 22);
             this.consultarToolStripMenuItem.Text = "Consultar";
             this.consultarToolStripMenuItem.Click += new System.EventHandler(this.consultarToolStripMenuItem_Click);
             // 
@@ -186,20 +187,20 @@
             this.criarToolStripMenuItem1,
             this.consultarToolStripMenuItem1});
             this.contasAReceberToolStripMenuItem.Name = "contasAReceberToolStripMenuItem";
-            this.contasAReceberToolStripMenuItem.Size = new System.Drawing.Size(112, 20);
+            this.contasAReceberToolStripMenuItem.Size = new System.Drawing.Size(106, 20);
             this.contasAReceberToolStripMenuItem.Text = "Contas A Receber";
             // 
             // criarToolStripMenuItem1
             // 
             this.criarToolStripMenuItem1.Name = "criarToolStripMenuItem1";
-            this.criarToolStripMenuItem1.Size = new System.Drawing.Size(125, 22);
+            this.criarToolStripMenuItem1.Size = new System.Drawing.Size(152, 22);
             this.criarToolStripMenuItem1.Text = "Criar...";
             this.criarToolStripMenuItem1.Click += new System.EventHandler(this.criarToolStripMenuItem1_Click);
             // 
             // consultarToolStripMenuItem1
             // 
             this.consultarToolStripMenuItem1.Name = "consultarToolStripMenuItem1";
-            this.consultarToolStripMenuItem1.Size = new System.Drawing.Size(125, 22);
+            this.consultarToolStripMenuItem1.Size = new System.Drawing.Size(152, 22);
             this.consultarToolStripMenuItem1.Text = "Consultar";
             this.consultarToolStripMenuItem1.Click += new System.EventHandler(this.consultarToolStripMenuItem1_Click);
             // 
@@ -208,26 +209,26 @@
             this.caixaBancoToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.movimentoToolStripMenuItem});
             this.caixaBancoToolStripMenuItem.Name = "caixaBancoToolStripMenuItem";
-            this.caixaBancoToolStripMenuItem.Size = new System.Drawing.Size(85, 20);
+            this.caixaBancoToolStripMenuItem.Size = new System.Drawing.Size(79, 20);
             this.caixaBancoToolStripMenuItem.Text = "Caixa/Banco";
             // 
             // movimentoToolStripMenuItem
             // 
             this.movimentoToolStripMenuItem.Name = "movimentoToolStripMenuItem";
-            this.movimentoToolStripMenuItem.Size = new System.Drawing.Size(136, 22);
+            this.movimentoToolStripMenuItem.Size = new System.Drawing.Size(152, 22);
             this.movimentoToolStripMenuItem.Text = "Movimento";
             this.movimentoToolStripMenuItem.Click += new System.EventHandler(this.movimentoToolStripMenuItem_Click);
             // 
             // aplicacaoToolStripMenuItem
             // 
             this.aplicacaoToolStripMenuItem.Name = "aplicacaoToolStripMenuItem";
-            this.aplicacaoToolStripMenuItem.Size = new System.Drawing.Size(71, 20);
+            this.aplicacaoToolStripMenuItem.Size = new System.Drawing.Size(64, 20);
             this.aplicacaoToolStripMenuItem.Text = "Aplicacao";
             // 
             // relatoriosToolStripMenuItem
             // 
             this.relatoriosToolStripMenuItem.Name = "relatoriosToolStripMenuItem";
-            this.relatoriosToolStripMenuItem.Size = new System.Drawing.Size(71, 20);
+            this.relatoriosToolStripMenuItem.Size = new System.Drawing.Size(67, 20);
             this.relatoriosToolStripMenuItem.Text = "Relatorios";
             // 
             // menuStrip1
@@ -270,6 +271,7 @@
             // 
             // tabPage3
             // 
+            this.tabPage3.Controls.Add(this.label8);
             this.tabPage3.Controls.Add(this.label17);
             this.tabPage3.Controls.Add(this.label16);
             this.tabPage3.Controls.Add(this.label15);
@@ -330,6 +332,15 @@
             this.tabPage1.TabIndex = 0;
             this.tabPage1.Text = "Cadastro -> Clientes / Fornecedores";
             // 
+            // label1
+            // 
+            this.label1.AutoSize = true;
+            this.label1.Location = new System.Drawing.Point(138, 110);
+            this.label1.Name = "label1";
+            this.label1.Size = new System.Drawing.Size(177, 13);
+            this.label1.TabIndex = 1;
+            this.label1.Text = "Cadastro -> Clientes / Fornecedores";
+            // 
             // tabPage2
             // 
             this.tabPage2.BackColor = System.Drawing.Color.White;
@@ -340,6 +351,15 @@
             this.tabPage2.Size = new System.Drawing.Size(784, 520);
             this.tabPage2.TabIndex = 1;
             this.tabPage2.Text = "Cadastro ->  Bancos";
+            // 
+            // label2
+            // 
+            this.label2.AutoSize = true;
+            this.label2.Location = new System.Drawing.Point(170, 93);
+            this.label2.Name = "label2";
+            this.label2.Size = new System.Drawing.Size(100, 13);
+            this.label2.TabIndex = 1;
+            this.label2.Text = "Cadastro -> Bancos";
             // 
             // tabPage4
             // 
@@ -352,6 +372,15 @@
             this.tabPage4.Text = "Cadastro -> Moedas / Indices";
             this.tabPage4.UseVisualStyleBackColor = true;
             // 
+            // label3
+            // 
+            this.label3.AutoSize = true;
+            this.label3.Location = new System.Drawing.Point(175, 91);
+            this.label3.Name = "label3";
+            this.label3.Size = new System.Drawing.Size(147, 13);
+            this.label3.TabIndex = 1;
+            this.label3.Text = "Cadastro -> Moedas / Indices";
+            // 
             // tabPage5
             // 
             this.tabPage5.Controls.Add(this.label4);
@@ -362,6 +391,15 @@
             this.tabPage5.TabIndex = 4;
             this.tabPage5.Text = "Cadastro -> Centro de Custo";
             this.tabPage5.UseVisualStyleBackColor = true;
+            // 
+            // label4
+            // 
+            this.label4.AutoSize = true;
+            this.label4.Location = new System.Drawing.Point(205, 111);
+            this.label4.Name = "label4";
+            this.label4.Size = new System.Drawing.Size(140, 13);
+            this.label4.TabIndex = 1;
+            this.label4.Text = "Cadastro -> Centro de Custo";
             // 
             // tabPage6
             // 
@@ -374,6 +412,15 @@
             this.tabPage6.Text = "Cadastro -> Portador";
             this.tabPage6.UseVisualStyleBackColor = true;
             // 
+            // label5
+            // 
+            this.label5.AutoSize = true;
+            this.label5.Location = new System.Drawing.Point(201, 117);
+            this.label5.Name = "label5";
+            this.label5.Size = new System.Drawing.Size(104, 13);
+            this.label5.TabIndex = 1;
+            this.label5.Text = "Cadastro -> Portador";
+            // 
             // tabPage7
             // 
             this.tabPage7.Controls.Add(this.label18);
@@ -384,6 +431,15 @@
             this.tabPage7.TabIndex = 6;
             this.tabPage7.Text = "Cadastro -> Operações";
             this.tabPage7.UseVisualStyleBackColor = true;
+            // 
+            // label18
+            // 
+            this.label18.AutoSize = true;
+            this.label18.Location = new System.Drawing.Point(107, 31);
+            this.label18.Name = "label18";
+            this.label18.Size = new System.Drawing.Size(116, 13);
+            this.label18.TabIndex = 0;
+            this.label18.Text = "Cadastro -> Operações";
             // 
             // tabPage8
             // 
@@ -396,6 +452,15 @@
             this.tabPage8.Text = "Cadastro -> Fluxo de Caixa";
             this.tabPage8.UseVisualStyleBackColor = true;
             // 
+            // label19
+            // 
+            this.label19.AutoSize = true;
+            this.label19.Location = new System.Drawing.Point(150, 108);
+            this.label19.Name = "label19";
+            this.label19.Size = new System.Drawing.Size(130, 13);
+            this.label19.TabIndex = 1;
+            this.label19.Text = "Cadastro ->Fluxo de Caixa";
+            // 
             // tabPage9
             // 
             this.tabPage9.Controls.Add(this.label20);
@@ -405,6 +470,15 @@
             this.tabPage9.TabIndex = 8;
             this.tabPage9.Text = "Contas a Pagar -> Criar";
             this.tabPage9.UseVisualStyleBackColor = true;
+            // 
+            // label20
+            // 
+            this.label20.AutoSize = true;
+            this.label20.Location = new System.Drawing.Point(170, 86);
+            this.label20.Name = "label20";
+            this.label20.Size = new System.Drawing.Size(116, 13);
+            this.label20.TabIndex = 1;
+            this.label20.Text = "Contas a Pagar -> Criar";
             // 
             // tabPage10
             // 
@@ -416,6 +490,15 @@
             this.tabPage10.Text = "Contas a Pagar ->  Consultar";
             this.tabPage10.UseVisualStyleBackColor = true;
             // 
+            // label21
+            // 
+            this.label21.AutoSize = true;
+            this.label21.Location = new System.Drawing.Point(207, 108);
+            this.label21.Name = "label21";
+            this.label21.Size = new System.Drawing.Size(139, 13);
+            this.label21.TabIndex = 1;
+            this.label21.Text = "Contas a Pagar -> Consultar";
+            // 
             // tabPage11
             // 
             this.tabPage11.Controls.Add(this.label22);
@@ -425,6 +508,15 @@
             this.tabPage11.TabIndex = 10;
             this.tabPage11.Text = "Contas a Receber -> Criar";
             this.tabPage11.UseVisualStyleBackColor = true;
+            // 
+            // label22
+            // 
+            this.label22.AutoSize = true;
+            this.label22.Location = new System.Drawing.Point(170, 84);
+            this.label22.Name = "label22";
+            this.label22.Size = new System.Drawing.Size(129, 13);
+            this.label22.TabIndex = 1;
+            this.label22.Text = "Contas a Receber -> Criar";
             // 
             // tabPage12
             // 
@@ -436,6 +528,15 @@
             this.tabPage12.Text = "Contas a Receber -> Consultar";
             this.tabPage12.UseVisualStyleBackColor = true;
             // 
+            // label6
+            // 
+            this.label6.AutoSize = true;
+            this.label6.Location = new System.Drawing.Point(156, 143);
+            this.label6.Name = "label6";
+            this.label6.Size = new System.Drawing.Size(152, 13);
+            this.label6.TabIndex = 1;
+            this.label6.Text = "Contas a Receber -> Consultar";
+            // 
             // tabPage13
             // 
             this.tabPage13.Controls.Add(this.label7);
@@ -446,105 +547,6 @@
             this.tabPage13.Text = "Caixa / Banco -> Movimentos";
             this.tabPage13.UseVisualStyleBackColor = true;
             // 
-            // label18
-            // 
-            this.label18.AutoSize = true;
-            this.label18.Location = new System.Drawing.Point(107, 31);
-            this.label18.Name = "label18";
-            this.label18.Size = new System.Drawing.Size(116, 13);
-            this.label18.TabIndex = 0;
-            this.label18.Text = "Cadastro -> Operações";
-            // 
-            // label19
-            // 
-            this.label19.AutoSize = true;
-            this.label19.Location = new System.Drawing.Point(150, 108);
-            this.label19.Name = "label19";
-            this.label19.Size = new System.Drawing.Size(130, 13);
-            this.label19.TabIndex = 1;
-            this.label19.Text = "Cadastro ->Fluxo de Caixa";
-            // 
-            // label20
-            // 
-            this.label20.AutoSize = true;
-            this.label20.Location = new System.Drawing.Point(170, 86);
-            this.label20.Name = "label20";
-            this.label20.Size = new System.Drawing.Size(116, 13);
-            this.label20.TabIndex = 1;
-            this.label20.Text = "Contas a Pagar -> Criar";
-            // 
-            // label21
-            // 
-            this.label21.AutoSize = true;
-            this.label21.Location = new System.Drawing.Point(207, 108);
-            this.label21.Name = "label21";
-            this.label21.Size = new System.Drawing.Size(139, 13);
-            this.label21.TabIndex = 1;
-            this.label21.Text = "Contas a Pagar -> Consultar";
-            // 
-            // label22
-            // 
-            this.label22.AutoSize = true;
-            this.label22.Location = new System.Drawing.Point(170, 84);
-            this.label22.Name = "label22";
-            this.label22.Size = new System.Drawing.Size(129, 13);
-            this.label22.TabIndex = 1;
-            this.label22.Text = "Contas a Receber -> Criar";
-            // 
-            // label1
-            // 
-            this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(138, 110);
-            this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(177, 13);
-            this.label1.TabIndex = 1;
-            this.label1.Text = "Cadastro -> Clientes / Fornecedores";
-            // 
-            // label2
-            // 
-            this.label2.AutoSize = true;
-            this.label2.Location = new System.Drawing.Point(170, 93);
-            this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(100, 13);
-            this.label2.TabIndex = 1;
-            this.label2.Text = "Cadastro -> Bancos";
-            // 
-            // label3
-            // 
-            this.label3.AutoSize = true;
-            this.label3.Location = new System.Drawing.Point(175, 91);
-            this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(147, 13);
-            this.label3.TabIndex = 1;
-            this.label3.Text = "Cadastro -> Moedas / Indices";
-            // 
-            // label4
-            // 
-            this.label4.AutoSize = true;
-            this.label4.Location = new System.Drawing.Point(205, 111);
-            this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(140, 13);
-            this.label4.TabIndex = 1;
-            this.label4.Text = "Cadastro -> Centro de Custo";
-            // 
-            // label5
-            // 
-            this.label5.AutoSize = true;
-            this.label5.Location = new System.Drawing.Point(201, 117);
-            this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(104, 13);
-            this.label5.TabIndex = 1;
-            this.label5.Text = "Cadastro -> Portador";
-            // 
-            // label6
-            // 
-            this.label6.AutoSize = true;
-            this.label6.Location = new System.Drawing.Point(156, 143);
-            this.label6.Name = "label6";
-            this.label6.Size = new System.Drawing.Size(152, 13);
-            this.label6.TabIndex = 1;
-            this.label6.Text = "Contas a Receber -> Consultar";
-            // 
             // label7
             // 
             this.label7.AutoSize = true;
@@ -553,6 +555,15 @@
             this.label7.Size = new System.Drawing.Size(147, 13);
             this.label7.TabIndex = 1;
             this.label7.Text = "Caixa / Banco -> Movimentos";
+            // 
+            // label8
+            // 
+            this.label8.AutoSize = true;
+            this.label8.Location = new System.Drawing.Point(374, 53);
+            this.label8.Name = "label8";
+            this.label8.Size = new System.Drawing.Size(60, 13);
+            this.label8.TabIndex = 4;
+            this.label8.Text = "branch test";
             // 
             // FrmPrincipal
             // 
@@ -649,6 +660,7 @@
         private System.Windows.Forms.Label label22;
         private System.Windows.Forms.Label label6;
         private System.Windows.Forms.Label label7;
+        private System.Windows.Forms.Label label8;
 
 
     }
