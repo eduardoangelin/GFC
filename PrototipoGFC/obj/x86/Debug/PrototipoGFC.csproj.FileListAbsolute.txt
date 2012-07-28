@@ -27,3 +27,6 @@ C:\Users\Luciano\Documents\GitHub\GFC\PrototipoGFC\obj\x86\Debug\GenerateResourc
 C:\Users\Luciano\Documents\GitHub\GFC\PrototipoGFC\bin\Debug\PrototipoGFC.exe
 C:\Users\Luciano\Documents\GitHub\GFC\PrototipoGFC\bin\Debug\PrototipoGFC.pdb
 C:\Users\Luciano\Documents\GitHub\GFC\PrototipoGFC\bin\Debug\MySql.Data.dll
+C:\Documents and Settings\Administrador\Meus documentos\GitHub\ProjetosGITHUB\GFC\PrototipoGFC\bin\Debug\PrototipoGFC.exe.config
+C:\Documents and Settings\Administrador\Meus documentos\GitHub\ProjetosGITHUB\GFC\PrototipoGFC\obj\x86\Debug\PrototipoGFC.exe
+C:\Documents and Settings\Administrador\Meus documentos\GitHub\ProjetosGITHUB\GFC\PrototipoGFC\obj\x86\Debug\PrototipoGFC.pdb
