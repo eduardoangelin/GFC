@@ -92,5 +92,10 @@ namespace PrototipoGFC
         {
             tablessControl1.SelectedIndex = 12;
         }
+
+        private void dataGridView1_CellContentClick(object sender, DataGridViewCellEventArgs e)
+        {
+
+        }
     }
 }
