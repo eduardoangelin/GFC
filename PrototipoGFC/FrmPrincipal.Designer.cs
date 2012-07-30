@@ -349,6 +349,42 @@
             this.button55 = new System.Windows.Forms.Button();
             this.label6 = new System.Windows.Forms.Label();
             this.tabPage13 = new System.Windows.Forms.TabPage();
+            this.panel9 = new System.Windows.Forms.Panel();
+            this.button67 = new System.Windows.Forms.Button();
+            this.button66 = new System.Windows.Forms.Button();
+            this.button65 = new System.Windows.Forms.Button();
+            this.button56 = new System.Windows.Forms.Button();
+            this.button57 = new System.Windows.Forms.Button();
+            this.button58 = new System.Windows.Forms.Button();
+            this.textBox45 = new System.Windows.Forms.TextBox();
+            this.textBox46 = new System.Windows.Forms.TextBox();
+            this.label62 = new System.Windows.Forms.Label();
+            this.label74 = new System.Windows.Forms.Label();
+            this.button59 = new System.Windows.Forms.Button();
+            this.button60 = new System.Windows.Forms.Button();
+            this.comboBox10 = new System.Windows.Forms.ComboBox();
+            this.textBox47 = new System.Windows.Forms.TextBox();
+            this.button61 = new System.Windows.Forms.Button();
+            this.label82 = new System.Windows.Forms.Label();
+            this.label83 = new System.Windows.Forms.Label();
+            this.textBox48 = new System.Windows.Forms.TextBox();
+            this.textBox49 = new System.Windows.Forms.TextBox();
+            this.label84 = new System.Windows.Forms.Label();
+            this.label85 = new System.Windows.Forms.Label();
+            this.label86 = new System.Windows.Forms.Label();
+            this.button62 = new System.Windows.Forms.Button();
+            this.textBox50 = new System.Windows.Forms.TextBox();
+            this.textBox51 = new System.Windows.Forms.TextBox();
+            this.dataGridView13 = new System.Windows.Forms.DataGridView();
+            this.Data = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.DocumentoCaixaBanco = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.DescOperacao = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.ValorCaixaBanco = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.TP = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.label87 = new System.Windows.Forms.Label();
+            this.button63 = new System.Windows.Forms.Button();
+            this.label88 = new System.Windows.Forms.Label();
+            this.button64 = new System.Windows.Forms.Button();
             this.label7 = new System.Windows.Forms.Label();
             this.menuStrip1.SuspendLayout();
             this.tablessControl1.SuspendLayout();
@@ -386,6 +422,8 @@
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView10)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView11)).BeginInit();
             this.tabPage13.SuspendLayout();
+            this.panel9.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.dataGridView13)).BeginInit();
             this.SuspendLayout();
             // 
             // cadastroToolStripMenuItem
@@ -508,8 +546,8 @@
             // movimentoToolStripMenuItem
             // 
             this.movimentoToolStripMenuItem.Name = "movimentoToolStripMenuItem";
-            this.movimentoToolStripMenuItem.Size = new System.Drawing.Size(126, 22);
-            this.movimentoToolStripMenuItem.Text = "Movimento";
+            this.movimentoToolStripMenuItem.Size = new System.Drawing.Size(131, 22);
+            this.movimentoToolStripMenuItem.Text = "Movimentos";
             this.movimentoToolStripMenuItem.Click += new System.EventHandler(this.movimentoToolStripMenuItem_Click);
             // 
             // aplicacaoToolStripMenuItem
@@ -3301,6 +3339,7 @@
             // 
             // tabPage13
             // 
+            this.tabPage13.Controls.Add(this.panel9);
             this.tabPage13.Controls.Add(this.label7);
             this.tabPage13.Location = new System.Drawing.Point(4, 58);
             this.tabPage13.Name = "tabPage13";
@@ -3309,10 +3348,339 @@
             this.tabPage13.Text = "Caixa / Banco -> Movimentos";
             this.tabPage13.UseVisualStyleBackColor = true;
             // 
+            // panel9
+            // 
+            this.panel9.Controls.Add(this.button67);
+            this.panel9.Controls.Add(this.button66);
+            this.panel9.Controls.Add(this.button65);
+            this.panel9.Controls.Add(this.button56);
+            this.panel9.Controls.Add(this.button57);
+            this.panel9.Controls.Add(this.button58);
+            this.panel9.Controls.Add(this.textBox45);
+            this.panel9.Controls.Add(this.textBox46);
+            this.panel9.Controls.Add(this.label62);
+            this.panel9.Controls.Add(this.label74);
+            this.panel9.Controls.Add(this.button59);
+            this.panel9.Controls.Add(this.button60);
+            this.panel9.Controls.Add(this.comboBox10);
+            this.panel9.Controls.Add(this.textBox47);
+            this.panel9.Controls.Add(this.button61);
+            this.panel9.Controls.Add(this.label82);
+            this.panel9.Controls.Add(this.label83);
+            this.panel9.Controls.Add(this.textBox48);
+            this.panel9.Controls.Add(this.textBox49);
+            this.panel9.Controls.Add(this.label84);
+            this.panel9.Controls.Add(this.label85);
+            this.panel9.Controls.Add(this.label86);
+            this.panel9.Controls.Add(this.button62);
+            this.panel9.Controls.Add(this.textBox50);
+            this.panel9.Controls.Add(this.textBox51);
+            this.panel9.Controls.Add(this.dataGridView13);
+            this.panel9.Controls.Add(this.label87);
+            this.panel9.Controls.Add(this.button63);
+            this.panel9.Controls.Add(this.label88);
+            this.panel9.Controls.Add(this.button64);
+            this.panel9.Location = new System.Drawing.Point(12, 35);
+            this.panel9.Name = "panel9";
+            this.panel9.Size = new System.Drawing.Size(765, 412);
+            this.panel9.TabIndex = 18;
+            // 
+            // button67
+            // 
+            this.button67.Location = new System.Drawing.Point(669, 203);
+            this.button67.Name = "button67";
+            this.button67.Size = new System.Drawing.Size(90, 23);
+            this.button67.TabIndex = 45;
+            this.button67.Text = "Débito/Crédito";
+            this.button67.UseVisualStyleBackColor = true;
+            // 
+            // button66
+            // 
+            this.button66.Location = new System.Drawing.Point(669, 136);
+            this.button66.Name = "button66";
+            this.button66.Size = new System.Drawing.Size(90, 32);
+            this.button66.TabIndex = 44;
+            this.button66.Text = "Aviso de Débito";
+            this.button66.UseVisualStyleBackColor = true;
+            // 
+            // button65
+            // 
+            this.button65.Location = new System.Drawing.Point(669, 174);
+            this.button65.Name = "button65";
+            this.button65.Size = new System.Drawing.Size(90, 23);
+            this.button65.TabIndex = 43;
+            this.button65.Text = "Transferência";
+            this.button65.UseVisualStyleBackColor = true;
+            // 
+            // button56
+            // 
+            this.button56.Location = new System.Drawing.Point(669, 95);
+            this.button56.Name = "button56";
+            this.button56.Size = new System.Drawing.Size(90, 35);
+            this.button56.TabIndex = 42;
+            this.button56.Text = "Aviso de Crédito";
+            this.button56.UseVisualStyleBackColor = true;
+            // 
+            // button57
+            // 
+            this.button57.Location = new System.Drawing.Point(669, 66);
+            this.button57.Name = "button57";
+            this.button57.Size = new System.Drawing.Size(90, 23);
+            this.button57.TabIndex = 41;
+            this.button57.Text = "Saque";
+            this.button57.UseVisualStyleBackColor = true;
+            // 
+            // button58
+            // 
+            this.button58.Location = new System.Drawing.Point(620, 5);
+            this.button58.Name = "button58";
+            this.button58.Size = new System.Drawing.Size(116, 23);
+            this.button58.TabIndex = 40;
+            this.button58.Text = "Pesquisa Data";
+            this.button58.UseVisualStyleBackColor = true;
+            // 
+            // textBox45
+            // 
+            this.textBox45.Location = new System.Drawing.Point(465, 376);
+            this.textBox45.Name = "textBox45";
+            this.textBox45.Size = new System.Drawing.Size(174, 20);
+            this.textBox45.TabIndex = 38;
+            // 
+            // textBox46
+            // 
+            this.textBox46.Location = new System.Drawing.Point(274, 376);
+            this.textBox46.Name = "textBox46";
+            this.textBox46.Size = new System.Drawing.Size(174, 20);
+            this.textBox46.TabIndex = 37;
+            // 
+            // label62
+            // 
+            this.label62.AutoSize = true;
+            this.label62.Location = new System.Drawing.Point(462, 360);
+            this.label62.Name = "label62";
+            this.label62.Size = new System.Drawing.Size(60, 13);
+            this.label62.TabIndex = 36;
+            this.label62.Text = "Conta Final";
+            // 
+            // label74
+            // 
+            this.label74.AutoSize = true;
+            this.label74.Location = new System.Drawing.Point(271, 360);
+            this.label74.Name = "label74";
+            this.label74.Size = new System.Drawing.Size(65, 13);
+            this.label74.TabIndex = 35;
+            this.label74.Text = "Conta Inicial";
+            // 
+            // button59
+            // 
+            this.button59.Location = new System.Drawing.Point(498, 5);
+            this.button59.Name = "button59";
+            this.button59.Size = new System.Drawing.Size(116, 23);
+            this.button59.TabIndex = 34;
+            this.button59.Text = "Pesquisa Conta";
+            this.button59.UseVisualStyleBackColor = true;
+            // 
+            // button60
+            // 
+            this.button60.Location = new System.Drawing.Point(376, 5);
+            this.button60.Name = "button60";
+            this.button60.Size = new System.Drawing.Size(116, 23);
+            this.button60.TabIndex = 33;
+            this.button60.Text = "Pesquisa Doc";
+            this.button60.UseVisualStyleBackColor = true;
+            // 
+            // comboBox10
+            // 
+            this.comboBox10.FormattingEnabled = true;
+            this.comboBox10.Items.AddRange(new object[] {
+            "Data",
+            "Documento",
+            "Conta"});
+            this.comboBox10.Location = new System.Drawing.Point(82, 305);
+            this.comboBox10.Name = "comboBox10";
+            this.comboBox10.Size = new System.Drawing.Size(121, 21);
+            this.comboBox10.TabIndex = 28;
+            this.comboBox10.Text = "Data";
+            // 
+            // textBox47
+            // 
+            this.textBox47.Location = new System.Drawing.Point(177, 7);
+            this.textBox47.Name = "textBox47";
+            this.textBox47.Size = new System.Drawing.Size(174, 20);
+            this.textBox47.TabIndex = 25;
+            // 
+            // button61
+            // 
+            this.button61.Location = new System.Drawing.Point(669, 373);
+            this.button61.Name = "button61";
+            this.button61.Size = new System.Drawing.Size(91, 23);
+            this.button61.TabIndex = 24;
+            this.button61.Text = "OK";
+            this.button61.UseVisualStyleBackColor = true;
+            // 
+            // label82
+            // 
+            this.label82.AutoSize = true;
+            this.label82.Location = new System.Drawing.Point(13, 305);
+            this.label82.Name = "label82";
+            this.label82.Size = new System.Drawing.Size(63, 13);
+            this.label82.TabIndex = 19;
+            this.label82.Text = "Ordenar por";
+            // 
+            // label83
+            // 
+            this.label83.AutoSize = true;
+            this.label83.Location = new System.Drawing.Point(13, 282);
+            this.label83.Name = "label83";
+            this.label83.Size = new System.Drawing.Size(57, 13);
+            this.label83.TabIndex = 18;
+            this.label83.Text = "Selecionar";
+            // 
+            // textBox48
+            // 
+            this.textBox48.Location = new System.Drawing.Point(465, 337);
+            this.textBox48.Name = "textBox48";
+            this.textBox48.Size = new System.Drawing.Size(174, 20);
+            this.textBox48.TabIndex = 17;
+            // 
+            // textBox49
+            // 
+            this.textBox49.Location = new System.Drawing.Point(274, 337);
+            this.textBox49.Name = "textBox49";
+            this.textBox49.Size = new System.Drawing.Size(174, 20);
+            this.textBox49.TabIndex = 16;
+            // 
+            // label84
+            // 
+            this.label84.AutoSize = true;
+            this.label84.Location = new System.Drawing.Point(462, 321);
+            this.label84.Name = "label84";
+            this.label84.Size = new System.Drawing.Size(87, 13);
+            this.label84.TabIndex = 15;
+            this.label84.Text = "Documento Final";
+            // 
+            // label85
+            // 
+            this.label85.AutoSize = true;
+            this.label85.Location = new System.Drawing.Point(271, 321);
+            this.label85.Name = "label85";
+            this.label85.Size = new System.Drawing.Size(92, 13);
+            this.label85.TabIndex = 14;
+            this.label85.Text = "Documento Inicial";
+            // 
+            // label86
+            // 
+            this.label86.AutoSize = true;
+            this.label86.Location = new System.Drawing.Point(13, 10);
+            this.label86.Name = "label86";
+            this.label86.Size = new System.Drawing.Size(113, 13);
+            this.label86.TabIndex = 12;
+            this.label86.Text = "Consulta/Manutenção";
+            // 
+            // button62
+            // 
+            this.button62.Location = new System.Drawing.Point(670, 262);
+            this.button62.Name = "button62";
+            this.button62.Size = new System.Drawing.Size(90, 23);
+            this.button62.TabIndex = 7;
+            this.button62.Text = "Excluir";
+            this.button62.UseVisualStyleBackColor = true;
+            // 
+            // textBox50
+            // 
+            this.textBox50.Location = new System.Drawing.Point(465, 298);
+            this.textBox50.Name = "textBox50";
+            this.textBox50.Size = new System.Drawing.Size(174, 20);
+            this.textBox50.TabIndex = 11;
+            // 
+            // textBox51
+            // 
+            this.textBox51.Location = new System.Drawing.Point(274, 298);
+            this.textBox51.Name = "textBox51";
+            this.textBox51.Size = new System.Drawing.Size(174, 20);
+            this.textBox51.TabIndex = 10;
+            // 
+            // dataGridView13
+            // 
+            this.dataGridView13.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            this.dataGridView13.Columns.AddRange(new System.Windows.Forms.DataGridViewColumn[] {
+            this.Data,
+            this.DocumentoCaixaBanco,
+            this.DescOperacao,
+            this.ValorCaixaBanco,
+            this.TP});
+            this.dataGridView13.Location = new System.Drawing.Point(14, 37);
+            this.dataGridView13.Name = "dataGridView13";
+            this.dataGridView13.Size = new System.Drawing.Size(649, 232);
+            this.dataGridView13.TabIndex = 4;
+            // 
+            // Data
+            // 
+            this.Data.HeaderText = "Data";
+            this.Data.Name = "Data";
+            // 
+            // DocumentoCaixaBanco
+            // 
+            this.DocumentoCaixaBanco.HeaderText = "Documento";
+            this.DocumentoCaixaBanco.Name = "DocumentoCaixaBanco";
+            // 
+            // DescOperacao
+            // 
+            this.DescOperacao.HeaderText = "Descrição da Operação";
+            this.DescOperacao.Name = "DescOperacao";
+            this.DescOperacao.Width = 200;
+            // 
+            // ValorCaixaBanco
+            // 
+            this.ValorCaixaBanco.HeaderText = "Valor";
+            this.ValorCaixaBanco.Name = "ValorCaixaBanco";
+            // 
+            // TP
+            // 
+            this.TP.HeaderText = "TP";
+            this.TP.Name = "TP";
+            // 
+            // label87
+            // 
+            this.label87.AutoSize = true;
+            this.label87.Location = new System.Drawing.Point(462, 282);
+            this.label87.Name = "label87";
+            this.label87.Size = new System.Drawing.Size(55, 13);
+            this.label87.TabIndex = 9;
+            this.label87.Text = "Data Final";
+            // 
+            // button63
+            // 
+            this.button63.Location = new System.Drawing.Point(669, 37);
+            this.button63.Name = "button63";
+            this.button63.Size = new System.Drawing.Size(91, 23);
+            this.button63.TabIndex = 5;
+            this.button63.Text = "Depósito";
+            this.button63.UseVisualStyleBackColor = true;
+            this.button63.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.d);
+            // 
+            // label88
+            // 
+            this.label88.AutoSize = true;
+            this.label88.Location = new System.Drawing.Point(271, 282);
+            this.label88.Name = "label88";
+            this.label88.Size = new System.Drawing.Size(60, 13);
+            this.label88.TabIndex = 8;
+            this.label88.Text = "Data Inicial";
+            // 
+            // button64
+            // 
+            this.button64.Location = new System.Drawing.Point(669, 232);
+            this.button64.Name = "button64";
+            this.button64.Size = new System.Drawing.Size(90, 23);
+            this.button64.TabIndex = 6;
+            this.button64.Text = "Alterar";
+            this.button64.UseVisualStyleBackColor = true;
+            // 
             // label7
             // 
             this.label7.AutoSize = true;
-            this.label7.Location = new System.Drawing.Point(201, 108);
+            this.label7.Location = new System.Drawing.Point(8, 0);
             this.label7.Name = "label7";
             this.label7.Size = new System.Drawing.Size(147, 13);
             this.label7.TabIndex = 1;
@@ -3387,6 +3755,9 @@
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView11)).EndInit();
             this.tabPage13.ResumeLayout(false);
             this.tabPage13.PerformLayout();
+            this.panel9.ResumeLayout(false);
+            this.panel9.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.dataGridView13)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -3716,6 +4087,42 @@
         private System.Windows.Forms.Button button54;
         private System.Windows.Forms.Label label81;
         private System.Windows.Forms.Button button55;
+        private System.Windows.Forms.Panel panel9;
+        private System.Windows.Forms.Button button67;
+        private System.Windows.Forms.Button button66;
+        private System.Windows.Forms.Button button65;
+        private System.Windows.Forms.Button button56;
+        private System.Windows.Forms.Button button57;
+        private System.Windows.Forms.Button button58;
+        private System.Windows.Forms.TextBox textBox45;
+        private System.Windows.Forms.TextBox textBox46;
+        private System.Windows.Forms.Label label62;
+        private System.Windows.Forms.Label label74;
+        private System.Windows.Forms.Button button59;
+        private System.Windows.Forms.Button button60;
+        private System.Windows.Forms.ComboBox comboBox10;
+        private System.Windows.Forms.TextBox textBox47;
+        private System.Windows.Forms.Button button61;
+        private System.Windows.Forms.Label label82;
+        private System.Windows.Forms.Label label83;
+        private System.Windows.Forms.TextBox textBox48;
+        private System.Windows.Forms.TextBox textBox49;
+        private System.Windows.Forms.Label label84;
+        private System.Windows.Forms.Label label85;
+        private System.Windows.Forms.Label label86;
+        private System.Windows.Forms.Button button62;
+        private System.Windows.Forms.TextBox textBox50;
+        private System.Windows.Forms.TextBox textBox51;
+        private System.Windows.Forms.DataGridView dataGridView13;
+        private System.Windows.Forms.DataGridViewTextBoxColumn Data;
+        private System.Windows.Forms.DataGridViewTextBoxColumn DocumentoCaixaBanco;
+        private System.Windows.Forms.DataGridViewTextBoxColumn DescOperacao;
+        private System.Windows.Forms.DataGridViewTextBoxColumn ValorCaixaBanco;
+        private System.Windows.Forms.DataGridViewTextBoxColumn TP;
+        private System.Windows.Forms.Label label87;
+        private System.Windows.Forms.Button button63;
+        private System.Windows.Forms.Label label88;
+        private System.Windows.Forms.Button button64;
 
 
     }
